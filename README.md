@@ -28,23 +28,59 @@ Used car buyers and sellers often face challenges in evaluating the fair value o
 
 📦 Forecasting Pre-Owned Vehicles
 │
+
+
 ├── data/
+
+
 │ ├── car_price_data1.csv
+
+
 │ └── car_price_data2.csv
+
+
 │
+
+
 ├── notebooks/
+
+
 │ ├── Used Car Price Prediction.ipynb
+
+
 │ └── Used Car Price Prediction 2.ipynb
+
+
 │
+
+
 ├── reports/
+
+
 │ ├── Technical report.pdf
+
+
 │ └── Forecasting the Value of Pre-Owned Vehicles.pptx
+
+
 │
+
+
 ├── app/
+
+
 │ ├── app.py
+
+
 │ └── index.html
+
+
 │
+
+
 ├── requirements.txt
+
+
 └── README.md
 
 
@@ -102,24 +138,24 @@ Used car buyers and sellers often face challenges in evaluating the fair value o
    cd used-car-price-prediction
 
   
-**2. Create a virtual environment and install dependencies:**
+2. Create a virtual environment and install dependencies:
 
 
 - pip install -r requirements.txt
 
-**Run Jupyter Notebook:**
+Run Jupyter Notebook:
 
 
 - jupyter notebook
 
 
-**Or launch Flask app**:
+Or launch Flask app:
 
 
 - python app.py
 
 
-📜 **License**
+📜 License
 
 
 This project is for academic demonstration purposes only. Credit to dataset sources and open-source libraries used.
